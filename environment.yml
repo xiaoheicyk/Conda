@@ -9,7 +9,7 @@ dependencies:
   - plotly
   - pandas
   - matplotlib
-  - scikitlearn
+  - scikit-learn
   - numpy
   - r-dplyr
   - r-ggplot2
